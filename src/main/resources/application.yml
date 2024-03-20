@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    username: pratiksha7225@gmail.com
+    password: vuba glob ourk qgby
+    port: 587
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: true
+          auth: true
